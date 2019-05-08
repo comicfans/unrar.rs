@@ -17,7 +17,7 @@ log = "0.3"
 bitflags = "0.6"
 
 [dependencies.unrar_sys]
-path = "unrar_sys"
+git = "https://github.com/comicfans/unrar_sys"
 version = "0.2"
 
 [dev-dependencies]
